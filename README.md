@@ -1,2 +1,2 @@
-# go-rabbitmq-example
+# gofiber-rabbitmq-example
  
